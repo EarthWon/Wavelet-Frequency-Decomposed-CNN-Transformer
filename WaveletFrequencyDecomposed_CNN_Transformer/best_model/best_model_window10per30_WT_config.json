@@ -1,0 +1,9 @@
+{
+    "activation": "gelu",
+    "batch_size": 64,
+    "dim_feedforward": 256,
+    "lr": 0.0005,
+    "nhead": 2,
+    "num_layers": 4,
+    "optimizer": "Adam"
+}

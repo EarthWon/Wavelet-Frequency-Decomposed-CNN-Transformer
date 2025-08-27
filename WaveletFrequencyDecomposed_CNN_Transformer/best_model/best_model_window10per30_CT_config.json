@@ -1,0 +1,11 @@
+{
+    "activation": "relu",
+    "batch_size": 64,
+    "d_model": 128,
+    "dim_feedforward": 256,
+    "kernel_size": 5,
+    "lr": 0.001,
+    "nhead": 4,
+    "num_layers": 4,
+    "optimizer": "RMSprop"
+}

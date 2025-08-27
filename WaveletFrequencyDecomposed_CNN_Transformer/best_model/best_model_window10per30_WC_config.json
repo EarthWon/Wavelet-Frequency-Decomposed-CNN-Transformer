@@ -1,0 +1,7 @@
+{
+    "batch_size": 512,
+    "d_model": 128,
+    "kernel_size": 5,
+    "lr": 0.001,
+    "optimizer": "RMSprop"
+}

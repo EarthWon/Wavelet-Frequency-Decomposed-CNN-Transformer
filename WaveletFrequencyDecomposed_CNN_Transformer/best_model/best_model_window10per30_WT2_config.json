@@ -1,0 +1,9 @@
+{
+    "activation": "relu",
+    "batch_size": 64,
+    "dim_feedforward": 256,
+    "lr": 0.001,
+    "nhead": 2,
+    "num_layers": 2,
+    "optimizer": "AdamW"
+}
